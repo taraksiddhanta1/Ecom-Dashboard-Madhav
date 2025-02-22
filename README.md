@@ -15,7 +15,7 @@ The dashboard includes demographics and purchasing behavior analysis, showcasing
 # Sales Channels Analysis:
 
 Understand the effectiveness of various sales channels (e.g., website, mobile app, social media) by viewing channel-specific performance metrics. This section helps identify the most lucrative channels and optimize the sales strategy accordingly.
-# Geographical Sales Representation:
+# State wise Sales Representation:
 
 An interactive map visualization displays sales data by region, allowing users to pinpoint geographical trends and identify high-potential markets for expansion.
 # Time Series Analysis:
@@ -24,12 +24,18 @@ Dynamic time series charts enable users to track sales trends over time, highlig
 # Custom Filters and Drill-down Capabilities:
 
 Users can apply filters to customize their view, such as selecting specific time periods, product categories, or customer segments. This feature allows for detailed analysis and quick access to the information needed for decision-making.
-# Forecasting and Projections:
 
-Leverage advanced analytics to forecast future sales trends based on historical data, aiding in strategic planning and inventory management.
 # isual and Interactive Elements:
 
 The dashboard utilizes a variety of visualizations including bar charts, line graphs, pie charts, and tables, making it easy to interpret data at a glance. Interactive elements enhance user experience and engagement.
+# Profit Margin Analysis
+
 # Conclusion
 
 The Madhav Ecommerce Sales Dashboard serves as an indispensable tool for monitoring, analyzing, and strategizing sales efforts in the competitive ecommerce landscape. By leveraging the power of Power BI, this dashboard transforms raw data into actionable insights, empowering Madhav's team to make informed decisions that drive growth and enhance customer satisfaction.
+![image](https://github.com/user-attachments/assets/04058873-67a6-48de-a555-1ad80e949d29)
+![image](https://github.com/user-attachments/assets/c5b2720d-fc74-41a4-bf00-96e8fee511c8)
+![image](https://github.com/user-attachments/assets/da3c204e-6b80-4af8-89aa-ab0d874cdc70)
+
+![image](https://github.com/user-attachments/assets/ac4fc325-f341-4d88-b65c-7ef1c92c4a78)
+
